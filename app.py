@@ -120,6 +120,9 @@ HTML_TEMPLATE = """
         }
     </script>
 </body>
+    <div style="text-align: center; margin-top: 25px; color: #777; font-size: 13px;">
+        Made in Kalatar 🛠️
+    </div>
 </html>
 """
 
