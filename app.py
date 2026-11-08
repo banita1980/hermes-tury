@@ -1,4 +1,3 @@
-#
 from flask import Flask, render_template_string, request
 import requests
 from bs4 import BeautifulSoup
